@@ -1,0 +1,1 @@
+This repository about learning and practicing JavaScript from [JavaScript 21 Days Challenge course](https://www.js21.dev/).
